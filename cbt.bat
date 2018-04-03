@@ -1,0 +1,1 @@
+java -cp bin;software/* Cbt.Login &pause
